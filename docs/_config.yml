@@ -1,1 +1,6 @@
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+title: Feuwerwehr-Dokumentation
+
+# Optional, aber hilfreich
+search_enabled: true
