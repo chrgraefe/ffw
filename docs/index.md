@@ -1,5 +1,4 @@
 # Dokumentation
 
 - [Installation NextCloud ](installation-nextcloud.md)
-- [Konfiguration](konfiguration.md)
-- [FAQ](faq.md)
+- [Installation DIVERA 24/7 ](installation-divera.md)

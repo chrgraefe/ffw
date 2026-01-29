@@ -1,12 +1,3 @@
----
-layout: post
-ID: 33
-title: install nextcloud on android
-author: Christian Gräfe
-date: 2026-01-29 20:04:55
-categories: Feuerwehr NextCloud
----
-
 # NextCloud auf Android installieren
 
 Diese Anleitung beschreibt die Installation und Konfiguration von **NextCloud** auf einem Android-Gerät inklusive App-Installation, Server-Konfiguration und Synchronisation.
