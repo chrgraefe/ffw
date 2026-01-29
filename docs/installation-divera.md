@@ -1,3 +1,8 @@
+---
+title: Installation-DIVERA
+parent: Übersicht
+---
+
 # DIVERA 24/7 Monitor App auf Raspberry Pi 5
 
 Diese Anleitung beschreibt die Installation und Konfiguration der **DIVERA 24/7 Monitor App** auf einem Raspberry Pi 5 inklusive Autostart, System-Benachrichtigungen und Druckeranbindung.
