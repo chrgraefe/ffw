@@ -1,7 +1,6 @@
 # NextCloud auf Android installieren
 
 Diese Anleitung beschreibt die Installation und Konfiguration von **NextCloud** auf einem Android-Gerät inklusive App-Installation, Server-Konfiguration und Synchronisation.
-
 ---
 
 ## Voraussetzungen
