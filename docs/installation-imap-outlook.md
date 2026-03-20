@@ -13,7 +13,7 @@ Diese Anleitung beschreibt die Konfiguration von **Outlook** auf einem Android-G
 - Android Gerät mit installiertem Google Play Store
 - Zugangsdaten für das IMAP-Konto
 - IMAP Server: imap.strato.de
----
+- SMTP Server: smtp.strato.de
 
 ## Öffnen der Outlook App
 
