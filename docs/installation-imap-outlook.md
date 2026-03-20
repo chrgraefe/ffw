@@ -21,6 +21,7 @@ Diese Anleitung beschreibt die Konfiguration von **Outlook** auf einem Android-G
 - Tippe auf „Konto hinzufügen“
 - Tippe auf „Überspringen“
 - Mailadresse eingeben `wf-musterstadt@musterstadt.de`
+- Optional: Konto manuell einrichten
 - Kontotyp auswählen: IMAP
 - Erweiterte Einstellungen anzeigen lassen
 - Optional: Anzeigename eingeben
